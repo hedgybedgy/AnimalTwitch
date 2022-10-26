@@ -1,5 +1,5 @@
 # The Website
-The website: https://mahatrum.wixsite.com/flipper
+https://mahatrum.wixsite.com/flipper
 
 # Flipper
 Repository to store supplemental code and information regarding Flipper

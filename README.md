@@ -1,3 +1,5 @@
+## Our HackGT 9's "Best Use of Velo by Wix" winning submission!
+
 # The Website
 https://mahatrum.wixsite.com/flipper  
 The Devpost: https://devpost.com/software/flipper-z2u5g4
